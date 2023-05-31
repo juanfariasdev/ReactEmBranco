@@ -1,3 +1,6 @@
+PROJETO EM BRANCO PARA COMPUTADORES QUE NÃO ESTÁ FUNCIONANDO O COMANDO:
+### `npx create-react-app`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
